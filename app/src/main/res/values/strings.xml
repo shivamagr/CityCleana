@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clean City</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="PastIssueMain">Past Issue</string>
+    <string name="CreateIssueMain">Create Issue</string>
+    <string name="title_activity_basic_info">BasicInfo</string>
+    <string name="NameInfo">Name</string>
+    <string name="submitinfo">Submit</string>
+    <string name="title_activity_discription">Discription</string>
+    <string name="title_activity_camera">camera</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_my_past_issue_show">MyPastIssueShow</string>
+    <string name="locationdiscription">Enter Manually</string>
+</resources>
